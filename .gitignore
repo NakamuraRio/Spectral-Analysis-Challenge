@@ -27,6 +27,9 @@ models/*
 *.joblib
 *.h5
 
+# Submission
+Submission/*
+
 # Env / secrets
 .env
 secrets.json
