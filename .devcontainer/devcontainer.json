@@ -1,10 +1,13 @@
 {
-  "name": "ds-template",
+  "name": "スペクトル分析チャレンジ",
   "build": {
     "dockerfile": "../docker/Dockerfile",
     "context": ".."
   },
   "workspaceFolder": "/workspace",
+  "runArgs": [
+    "--name=Spectral-Analysis-Challenge-container"
+  ],
   "customizations": {
     "vscode": {
       "extensions": [
