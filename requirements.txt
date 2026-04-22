@@ -1,0 +1,24 @@
+# Core numerical / data
+numpy
+pandas
+scipy
+
+# Utils
+tqdm
+joblib
+
+# Visualization
+matplotlib
+japanize-matplotlib
+
+# ML
+scikit-learn
+lightgbm
+xgboost
+catboost
+
+# Explainability
+shap
+
+# Deep learning
+torch
